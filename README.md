@@ -15,6 +15,12 @@
 - Space - Reset
 - Return/Enter - Toggle between solid and gradient outline
 - Arrow up/down - Increment and Decrement power for Mandelbrot
+#### Images
+<p float="left">
+  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia.png" width="400" height="400"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia2.png" width="400" height="400"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia3.png" width="400" height="400"/>
+</p>
 
 ## MandelbrotCUDA
 - Mandelbrot Set written in c++ using SFML for displaying
