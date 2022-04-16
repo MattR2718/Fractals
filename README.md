@@ -24,7 +24,9 @@
 - R/G/B - Toggle colours
 - Space - Toggle clearing colours from array between displaying
 #### Images
-<img src="https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/coloursMandelbrot.png" width="300" height="300"/>
-<img src="https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/greenMandelbrot.png" width="300" height="300"/>
-<img src="https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/mandelbrot.png" width="300" height="300"/>
-<img src="https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/mandelbrotZoom.png" width="300" height="300"/>
+<p float="left">
+  <img src="https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/coloursMandelbrot.png" width="300" height="300"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/greenMandelbrot.png" width="300" height="300"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/mandelbrot.png" width="300" height="300"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/mandelbrotZoom.png" width="300" height="300"/>
+</p>
