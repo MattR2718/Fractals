@@ -1,4 +1,4 @@
-# fractals
+# Fractals
 ## Mandelbrot Set <br>
 - Mandelbrot set written in python using matplotlib to display
 
@@ -23,3 +23,8 @@
 - Mouse Scroll Up/Down - Zoom in and out
 - R/G/B - Toggle colours
 - Space - Toggle clearing colours from array between displaying
+#### Images
+![](https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/coloursMandelbrot.png)
+![](https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/greenMandelbrot.png)
+![](https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/mandelbrot.png)
+![](https://github.com/MattR2718/Fractals/blob/main/MandelbrotCUDA/img/mandelbrotZoom.png)
