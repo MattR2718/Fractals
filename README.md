@@ -1,4 +1,5 @@
 # fractals
-Fractals
+## Mandelbrot Set <br>
+- Mandelbrot set written in python using matplotlib to display
 
-Mandelbrot set and Julia set
+## 
