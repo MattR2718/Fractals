@@ -2,10 +2,16 @@
 ## Mandelbrot Set <br>
 - Mandelbrot set written in python using matplotlib to display
 #### Images
-![](https://github.com/MattR2718/Fractals/blob/main/mandelbrotSet/mandelbrot.png)
+<img src="https://github.com/MattR2718/Fractals/blob/main/mandelbrotSet/mandelbrot.png" width="300" height="300"/>
 
 ## Julia Set <br>
 - Mandelbrot set written in python using matplotlib to display
+#### Images
+<p float="left">
+  <img src="https://github.com/MattR2718/Fractals/blob/main/juliaSet/img/julia3.png" width="200" height="200"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/juliaSet/img/julia5.png" width="200" height="200"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/juliaSet/img/julia.png" width="200" height="200"/>
+</p>
 
 ## Explorer <br>
 - Mandelbrot set written in c++ using SFML for displaying
