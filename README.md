@@ -1,6 +1,8 @@
 # Fractals
 ## Mandelbrot Set <br>
 - Mandelbrot set written in python using matplotlib to display
+#### Images
+![](https://github.com/MattR2718/Fractals/blob/main/mandelbrotSet/mandelbrot.png)
 
 ## Julia Set <br>
 - Mandelbrot set written in python using matplotlib to display
