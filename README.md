@@ -17,9 +17,9 @@
 - Arrow up/down - Increment and Decrement power for Mandelbrot
 #### Images
 <p float="left">
-  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia.png" width="400" height="400"/>
-  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia2.png" width="400" height="400"/>
-  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia3.png" width="400" height="400"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia.png" width="400" height="200"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia2.png" width="400" height="200"/>
+  <img src="https://github.com/MattR2718/Fractals/blob/main/explorer/img/mandelbrotJulia3.png" width="400" height="200"/>
 </p>
 
 ## MandelbrotCUDA
