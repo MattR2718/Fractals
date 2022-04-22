@@ -5,7 +5,7 @@
 <img src="https://github.com/MattR2718/Fractals/blob/main/mandelbrotSet/mandelbrot.png" width="300" height="300"/>
 
 ## Julia Set <br>
-- Mandelbrot set written in python using matplotlib to display
+- Julia set written in python using matplotlib to display
 #### Images
 <p float="left">
   <img src="https://github.com/MattR2718/Fractals/blob/main/juliaSet/img/julia3.png" width="200" height="200"/>
